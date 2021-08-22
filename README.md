@@ -1,7 +1,8 @@
 # CS250FinalReflection
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
+To determine user needs, there are a few initial steps taken by an agile team to create a successful product. There is a collaboration between the client and the Product Owner, which is the first line of communication. The Product Owner will gather a list of requirements from the client as well as the appropriate details for the developing team to start the project. There will be many discussions between them to obtain the end goal for the client. The Product Owner will create a list of tasks for the developing team and prioritize them. The Product Owner will then create a user story to give the team an idea of what the client is looking to achieve. User stories are a way for the team to understand the requirements provided by the client. Its an understanding of what the team is building and why they are building this software and the value it creates.
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
+First there needs to be enough information gathered between the client and the developing team. With that list of requirements and features gathered, the developing team will decide which software model is the correct format for the software being developed. The agile methodology is a great model to implement. The benefit with using an agile approach is the different methods that can be applied, such as scrum, or extreme programming. For my future development, I hope to incorporate teamwork, adaptability, and acountability throughout each project.
 # What does it mean to be a good team member in software development?
+To be a good team member within a development team is to have trust in one another. Putting your trust in the other members will build a sturdy foundation and allow for better collaboration throughout the project. Communication is key within a team, especially in the agile methodology. A good team member will be goal oriented and want to strive to develop the best software as a team.
